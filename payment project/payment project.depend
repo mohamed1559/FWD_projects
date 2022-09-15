@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1658427767 source:e:\workspace\payment project\application\app.c
+	<stdio.h>
+	<stdlib.h>
+	"app.h"
+
+1658099807 source:e:\workspace\payment project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Application\app.h"
+
+1658421477 source:e:\workspace\payment project\server\server.c
+	<stdio.h>
+	<stdlib.h>
+	"Server.h"
+	<string.h>
+
+1658428052 source:e:\workspace\payment project\terminal\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	"Terminal.h"
+
+1658427934 source:e:\workspace\payment project\card\card.c
+	<stdio.h>
+	<stdlib.h>
+	"card.h"
+
+1658326456 e:\workspace\payment project\card\card.h
+
+1658346329 e:\workspace\payment project\terminal\terminal.h
+	"..\Card\card.h"
+
+1658358046 e:\workspace\payment project\application\app.h
+	"..\Card\card.h"
+	"..\Terminal\Terminal.h"
+	"..\Server\Server.h"
+
+1658357648 e:\workspace\payment project\server\server.h
+	"..\Card\card.h"
+	"..\Terminal\Terminal.h"
+
